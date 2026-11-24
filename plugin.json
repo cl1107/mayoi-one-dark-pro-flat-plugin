@@ -1,0 +1,16 @@
+{
+  "name": "one-dark-pro-flat",
+  "displayName": "One Dark Pro Flat",
+  "version": "1.0.0",
+  "description": "One Dark Pro Flat colors for Mayoi's editor, workbench, and terminal.",
+  "mayoi": ">=0.19.0",
+  "contributes": {
+    "themes": [
+      {
+        "id": "one-dark-pro-flat.flat",
+        "label": "One Dark Pro Flat",
+        "path": "themes/one-dark-pro-flat.json"
+      }
+    ]
+  }
+}
